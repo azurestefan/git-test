@@ -8,6 +8,4 @@ function is_even(number) {
 		return "it's an even nuber";
 	}
 }
-
-
 console.log(is_even(11));
